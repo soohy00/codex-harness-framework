@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harness Office Hours"
+  short_description: "Validate startup and side-project ideas before design"
+  default_prompt: "Use $harness-office-hours to validate this idea, ask one question at a time, and update docs/DISCOVERY.md."
+
+policy:
+  allow_implicit_invocation: true

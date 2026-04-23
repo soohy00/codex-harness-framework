@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harness Setup Worktrees"
+  short_description: "Create one git worktree per phase for parallel runs"
+  default_prompt: "Use $harness-setup-worktrees to create one git worktree per phase and show how to run scripts/execute.py in each one."
+
+policy:
+  allow_implicit_invocation: true

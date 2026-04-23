@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harness Step Planner"
+  short_description: "Plan Codex phases and TDD-first step files"
+  default_prompt: "Use $harness-step-planner to draft phases, define small TDD-first steps, and generate the phase files after approval."
+
+policy:
+  allow_implicit_invocation: true

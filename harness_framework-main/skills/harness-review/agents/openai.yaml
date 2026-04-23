@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harness Review"
+  short_description: "Review changes against AGENTS.md and project docs"
+  default_prompt: "Use $harness-review to review the current changes against AGENTS.md, architecture, ADR, PRD, and UI rules."
+
+policy:
+  allow_implicit_invocation: true

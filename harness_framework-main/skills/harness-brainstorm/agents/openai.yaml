@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harness Brainstorm"
+  short_description: "Turn product requirements into approved technical design"
+  default_prompt: "Use $harness-brainstorm to compare architecture options, get approval in sections, and update the design docs."
+
+policy:
+  allow_implicit_invocation: true

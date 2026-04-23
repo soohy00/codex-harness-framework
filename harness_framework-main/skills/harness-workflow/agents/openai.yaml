@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harness Workflow"
+  short_description: "Route Harness stages and old Claude commands in Codex"
+  default_prompt: "Use $harness-workflow to pick the right Harness stage for this repo and guide the next step."
+
+policy:
+  allow_implicit_invocation: true

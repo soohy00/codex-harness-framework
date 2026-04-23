@@ -1,0 +1,18 @@
+{
+  "project": "Neighborhood Notes",
+  "phase": "setup",
+  "steps": [
+    {
+      "step": 0,
+      "name": "contracts",
+      "status": "pending",
+      "complexity": "medium"
+    },
+    {
+      "step": 1,
+      "name": "app-shell",
+      "status": "pending",
+      "complexity": "low"
+    }
+  ]
+}
